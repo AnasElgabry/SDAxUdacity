@@ -1,0 +1,34 @@
+/* add your CSS here */
+
+.frame {
+  padding: 10px;
+  width: 300px;
+  border: 1px solid lightgrey;
+  box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+}
+
+.interesting-fact{
+  padding: 10px;
+  border: 1px solid lightgrey;
+}
+
+img{
+  width: 300px;
+  padding-bottom: 12px;
+}
+
+.middle-text{
+  color: black;
+  font-style: italic;
+}
+
+ul {
+  padding: 0;
+  list-style-type: none;
+ }
+
+span{
+  font-weight: bold;
+}
+
+
